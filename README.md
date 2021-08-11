@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-JS**
 
-- 👨‍💻 All of my projects are available at [JoydipJd.com](https://joydip-paul.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [JoydipJd.com](https://joydip.herokuapp.com/)
 
 - ⚡ Fun fact: **I love to drawing and painting.**
 
