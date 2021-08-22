@@ -7,7 +7,7 @@
  <h4>Fun fact: I love to drawing and painting.</h4>
  </div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">--Connect with me--</h3>
 <p align="center">
 <a href="https://twitter.com/joydippaul9" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="joydippaul9" /></a>
 <a href="https://www.linkedin.com/in/joydip-paul-90b447190/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="joydip-paul" /></a>
@@ -22,3 +22,7 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydip-paul&show_icons=true&locale=en&layout=compact" alt="joydip-paul" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joydip-paul&show_icons=true&theme=radical" alt="joydip-paul" />
+</p>
+
