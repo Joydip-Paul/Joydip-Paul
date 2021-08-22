@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, This is Joydip Paul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center"><img src = "https://komarev.com/ghpvc/?username=joydip-paul&style=flat-square" /></h3>
+
 
 <div align="center">
  <h4>I’m currently learning MERN STACK</h4>
