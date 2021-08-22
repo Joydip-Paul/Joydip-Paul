@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joydip Paul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joydip-paul&label=Profile%20views&color=0e75b6&style=flat" alt="joydip-paul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joydip-paul" alt="joydip-paul" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [Joydip.com](https://joydippaul.netlify.app/)
@@ -15,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/joydippaul9" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="joydippaul9" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/joydip-paul-90b447190/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="joydip-paul" height="30" width="40" /></a>
-<a href="https://www.facebook.com/joydippaul72/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="joydip paul jishu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/joydippaul72/" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/facebook-circled--v2.png" alt="joydip paul jishu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joydip_jishu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joydip-jishu" height="30" width="40" /></a>
 <a href="https://www.behance.net/Joydippaul018e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="joydip paul" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXOoAHrPiW8xD7hMnqHnENA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="web learner" height="30" width="40" /></a>
