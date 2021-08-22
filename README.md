@@ -8,10 +8,10 @@
 - ⚡ Fun fact: **I love to drawing and painting.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/joydippaul9" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="joydippaul9" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/joydip-paul-90b447190/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="joydip-paul" height="30" width="40" /></a>
-<a href="https://www.facebook.com/joydippaul72/" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/facebook-circled--v2.png" alt="joydip paul jishu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/joydippaul72/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-circled--v5.png" alt="joydip paul jishu"/></a>
 <a href="https://www.instagram.com/joydip_jishu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joydip-jishu" height="30" width="40" /></a>
 <a href="https://www.behance.net/Joydippaul018e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="joydip paul" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXOoAHrPiW8xD7hMnqHnENA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="web learner" height="30" width="40" /></a>
