@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Joydip Paul</h1>
+<h1 align="center">Hi 👋, This is Joydip Paul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center">
-  - 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 All of my projects are available at [Joydip.com](https://joydippaul.netlify.app/)
-
-- ⚡ Fun fact: **I love to drawing and painting.**
- </P>
+<div align="center">
+ <h4>I’m currently learning MERN STACK</h4>
+  <span>All of my projects are available at </span><a href = "https://joydippaul.netlify.app/">joydip.com</a>
+ <h4>Fun fact: I love to drawing and painting.</h4>
+ </div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -23,4 +21,4 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydip-paul&show_icons=true&locale=en&layout=compact" alt="joydip-paul" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydip-paul&show_icons=true&locale=en&layout=compact" alt="joydip-paul" /></p>
