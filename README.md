@@ -1,4 +1,4 @@
-<h3 align="center"><img src = "https://i.pinimg.com/originals/c5/07/5d/c5075d791fee5d4aba5c561280f0ceaa.gif" /></h3>
+<h3 align="center"><img src = "https://media1.giphy.com/media/ID4NXWnwuLnLq/200.gif" /></h3>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <h3 align="center"><img src = "https://komarev.com/ghpvc/?username=joydip-paul&style=flat-square" /></h3>
 
