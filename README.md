@@ -5,7 +5,7 @@
 
 <div align="center">
  <h4>I’m currently learning MERN STACK</h4>
-  <span>All of my projects are available at </span><a href = "joydip.dev">joydip.dev</a>
+  <span>All of my projects are available at </span><a href = "http://joydipjd.netlify.app/">joydip.dev</a>
  <h4>Fun fact: I love to drawing and painting.</h4>
  </div>
 
