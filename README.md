@@ -1,7 +1,7 @@
 <h3 align="center"><img src = "https://media1.giphy.com/media/ID4NXWnwuLnLq/200.gif" /></h3>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <!-- <h3 align="center"><img src = "https://komarev.com/ghpvc/?username=joydip-paul&style=flat-square" /></h3> -->
-<h3 align="center"><img src = "[https://komarev.com/ghpvc/?username=joydip-paul&style=flat-square](https://joydipjd.netlify.app/assets/images/jd-animation.gif)" /></h3>
+<h3 align="center"><img src = "https://joydipjd.netlify.app/assets/images/jd-animation.gif" /></h3>
 
 
 <div align="center">
