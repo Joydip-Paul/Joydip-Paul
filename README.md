@@ -4,3 +4,23 @@
 <span>All of my projects are available at </span><a href = "http://joydipjd.netlify.app/">joydip.dev</a>
 <h4>Fun fact: I love drawing and painting.</h4>
 
+````javascript
+const Joydip = {
+    pronouns: "He" | "Him",
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "tech", "front-end-dev"],
+    technologies: {
+        backEnd: {
+            js: ["node", "express" ],
+        },
+        frontEnd: {
+            js: ["angular","react"],
+            css: ["scss", "tailwind-css", "bootstrap"]
+        },
+        databases: ["mongoDb"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    currentFocus: "Learning ngrx",
+};
+````
